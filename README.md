@@ -1,5 +1,4 @@
-# include<std.h>
-
-int main(){
-  cout<<"1";
-}
+hellow-world
+------------
+My first repository on GitHub!
+I love :coffee:, :pizza:, and :dancer:.
